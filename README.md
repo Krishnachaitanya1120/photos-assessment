@@ -1,5 +1,4 @@
-Photo Gallery Application
-This is a single page application built using Angular. It fetches photos from an API and displays the returned results on the screen. The application also includes automated unit testing.
+Photo Gallery Application. This is a single page application built using Angular. It fetches photos from an API and displays the returned results on the screen. The application also includes automated unit testing.
 
 API Used
 JSONPlaceholder Photos API
