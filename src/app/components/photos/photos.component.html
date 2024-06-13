@@ -1,0 +1,14 @@
+<!-- <div class="card m-3" *ngFor="let post of posts">
+  <div class="card-body">
+    <h4 class="card-title">{{ post.title | uppercase}}</h4>
+    <small> <strong>Name: </strong> {{ post.name }}</small>
+    <p>{{ post.body }}</p>
+  </div>
+</div> -->
+
+<div class="photo-list">
+  <div *ngFor="let photo of photos" class="photo-item">
+    <img [src]="photo.thumbnailUrl" [alt]="photo.title" />
+    <p>{{ photo.title }}</p>
+  </div>
+</div>
