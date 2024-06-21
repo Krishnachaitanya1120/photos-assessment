@@ -15,7 +15,7 @@ Clone the repository:
 
 bash
 Copy code
-git clone https://github.com/your-username/photo-gallery.git
+git clone https://github.com/Krishnachaitanya1120/photos-assessment.git
 cd photo-gallery
 Install dependencies:
 
